@@ -5,7 +5,7 @@ main = "src/index.ts"
 workers_dev = false
 
 vars = { ENVIRONMENT = "production" }
-route = { pattern = "paste.lius.me", custom_domain = true }
+route = { pattern = "hllo-jiajia.us.kg", custom_domain = true }
 
 kv_namespaces = [
   { binding = "PB", id = "c700dd8d97a648eb9aae64fa9a782e40" },
